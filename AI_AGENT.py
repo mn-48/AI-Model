@@ -12,7 +12,7 @@ url = "http://127.0.0.1:11434/api/generate"
 # gemma3
 
 payload = {
-    "model": "deepseek-r1:8b",
+    "model": "gemma3:27b",
     "prompt": "Explain quantum computing in simple terms",
     "stream": True
 }
